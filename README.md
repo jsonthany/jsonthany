@@ -15,7 +15,7 @@ Currently, I am also a Junior Software Engineer at Trulioo on a 8 month internsh
 
 ### Technical Skills
 - Languages: C, C++, CSS, HTML, Java, JavaScript, TypeScript, Python, R, SQL
-- Framework & Tools: AWS, Docker, Express, Firebase, Git, JUnit, Node.js, Postman, React, Swing
+- Frameworks & Tools: AWS, Docker, Express, Firebase, Git, JUnit, Node.js, Postman, React, Swing
 - Databases: DynamoDB, MongoDB, PostgreSQL
 
 <br />
