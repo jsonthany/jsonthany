@@ -6,7 +6,7 @@
 I am a Computer Science student at the University of British Columbia (UBC). Prior to continuing my studies, I was a Management Consultant for a few years and decided pursue my desire to learn how to build new technologies with my own two hands.
 
 Currently, I am also a Junior Software Engineer at Trulioo on a 8 month internship and am ```👀 open to summer 2022 internship opportunities``` (both in Canada and the United States). If you would like to learn more about me, you can learn more in the following links:
-- LinkedIn: linkedin.com/in/jasonthany/
+- LinkedIn: https://linkedin.com/in/jasonthany/
 - Personal Website: https://jsonthany.com/ (⤵️ you can download my resume here)
 
 ... or better yet, feel free to reach out and contact me directly at 💻 jason.thany@outlook.com. I'm always down to connect and discuss over call, coffee, (or tea?).
