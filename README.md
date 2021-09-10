@@ -21,14 +21,14 @@ Currently, I am also a Junior Software Engineer at Trulioo on a 8 month internsh
 <br />
 
 ### Github Summary
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jsonthany&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonthany&langs_count=5&theme=tokyonight)]()
-<!-- <table>
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jsonthany&count_private=true&theme=tokyonight&showicons=true)]()<br />
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonthany&langs_count=5&theme=tokyonight)]() -->
+<table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/?username=jsonthany&count_private=true&theme=tokyonight&showicons=true"></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonthany&langs_count=5&theme=tokyonight"></td>
   </tr>
-</table> -->
+</table>
 
 <!--
 **jsonthany/jsonthany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
