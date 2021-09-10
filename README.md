@@ -1,4 +1,6 @@
-# Hi there 👋 my name is Jason
+## ``` JASON THANY ```
+
+# Hi there 👋
 
 ### Brief Introduction
 I am a Computer Science student at the University of British Columbia (UBC). Prior to continuing my studies, I was a Management Consultant for a few years and decided pursue my desire to learn how to build new technologies with my own two hands.
