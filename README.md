@@ -20,7 +20,7 @@ Currently, I am also a Junior Software Engineer at Trulioo on a 8 month internsh
 
 <br />
 
-### Github Summary
+## Github Summary
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jsonthany&count_private=true&theme=tokyonight&showicons=true)]()<br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonthany&langs_count=5&theme=tokyonight)]() -->
 <table>
