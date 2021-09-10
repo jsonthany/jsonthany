@@ -13,6 +13,13 @@ Currently, I am also a Junior Software Engineer at Trulioo on a 8 month internsh
 
 <br />
 
+### Technical Skills
+- Languages: C, C++, CSS, HTML, Java, JavaScript, TypeScript, Python, R, SQL
+- Tools: AWS, Docker, Express, Firebase, Git, JUnit, Node.js, Postman, React, Swing
+- Databases: DynamoDB, MongoDB, PostgreSQL
+
+<br />
+
 ### Github Summary
 <table>
   <tr>
@@ -20,8 +27,6 @@ Currently, I am also a Junior Software Engineer at Trulioo on a 8 month internsh
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonthany&langs_count=5&theme=tokyonight"></td>
   </tr>
 </table>
-
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonthany&langs_count=5&theme=tokyonight)]() -->
 
 <!--
 **jsonthany/jsonthany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
