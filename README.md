@@ -14,7 +14,7 @@ Currently, I am also on an a 8 month internship as a Junior Software Engineer at
 <br />
 
 ### Technical Skills
-- Languages: C, C++, CSS, HTML, Java, JavaScript, TypeScript, Python, R, SQL
+- Languages: C#, C, C++, Java, JavaScript, TypeScript, Python, CSS, HTML, R, SQL 
 - Frameworks & Tools: AWS, Docker, Express, Firebase, Git, JUnit, Node.js, Postman, React, Swing
 - Databases: DynamoDB, MongoDB, PostgreSQL
 
