@@ -1,4 +1,4 @@
-##### Tags: ``` 👀 open to summer 2022 internship opportunities ```  ``` 💻 contact me @ jason.thany@outlook.com ```
+##### Tags: ``` 👀 open to fall 2022 internship opportunities ```  ``` 💻 contact me @ jason.thany@outlook.com ```
 
 ## Hi there 👋 my name is Jason
 
