@@ -1,6 +1,6 @@
 ##### Tags: ``` 👀 open to fall 2022 internship opportunities ```  ``` 💻 contact me @ jason.thany@outlook.com ```
 
-## README 👋
+## READ(about)ME
 
 ### Brief Introduction
 I am a Computer Science student at the University of British Columbia (UBC). Prior to continuing my studies, I was a Management Consultant for a few years and decided to pursue my desire to learn how to build new technologies with my own two hands because its just so empowering.
