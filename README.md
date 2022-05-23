@@ -5,7 +5,7 @@
 ### Brief Introduction
 I am a Computer Science student at the University of British Columbia (UBC). Prior to continuing my studies, I was a Management Consultant for a few years and decided to pursue my desire to learn how to build new technologies with my own two hands because its just so empowering.
 
-Currently, I am also on an a 8 month internship as a Junior Software Engineer at Trulioo and am ```👀 open to summer 2022 internship opportunities``` (both in Canada and the United States). If you would like to learn more about me, you can learn more in the following links:
+Currently, I am also on an a 4 month internship as a Software Engineer at Amazon Web Services (AWS) and am ```👀 open to fall 2022 internship opportunities``` (both in Canada and the United States). If you would like to learn more about me, you can learn more in the following links:
 - LinkedIn: https://linkedin.com/in/jasonthany/
 - Personal Website: https://jsonthany.com/ (⤵️  you can download my resume here)
 
@@ -15,7 +15,8 @@ Currently, I am also on an a 8 month internship as a Junior Software Engineer at
 
 ### Technical Skills
 - Languages: C#, C, C++, Java, JavaScript, TypeScript, Python, CSS, HTML, R, SQL 
-- Frameworks & Tools: AWS, Docker, Express, Firebase, Git, JUnit, Node.js, Postman, React, Swing
+- Frameworks: Chai, Docker, Express, React, Jest, JUnit, Material UI, Mocha, Node.js, Swing
+- Tools: AWS (ElastiCache, Firehose, Lambda, Redshift, S3, SQS), BitBucket, Docker, Firebase, Git, Jira, Postman
 - Databases: DynamoDB, MongoDB, PostgreSQL
 
 <br />
