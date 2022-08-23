@@ -5,7 +5,7 @@
 ### Brief Introduction
 I am a Computer Science student at the University of British Columbia (UBC). Prior to continuing my studies, I was a Management Consultant for a few years and decided to pursue my desire to learn how to build new technologies with my own two hands because its just so empowering.
 
-Currently, I am also on an a 4 month internship as a Software Engineer at Amazon Web Services (AWS) and am ```👀 open to full-time opportunities starting in January 2023``` (both in Canada and the United States). If you would like to learn more about me, you can learn more in the following links:
+Currently, I just completed a 4 month internship as a Software Engineer at Amazon Web Services (AWS) and am ```👀 open to full-time opportunities starting in January 2023``` (both in Canada and the United States). If you would like to learn more about me, you can learn more in the following links:
 - LinkedIn: https://linkedin.com/in/jasonthany/
 - Personal Website: https://jsonthany.com/
 
